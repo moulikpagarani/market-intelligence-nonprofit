@@ -1,17 +1,17 @@
 # Research Questions
 
-This project will use public data to answer questions about nonprofit outreach strategy.
+This project uses public data to help nonprofits make better decisions about outreach, marketing, community engagement, and growth.
 
 ## Main Question
 
-Which communities in (State, county, city etc.) should be prioritized for nonprofit youth and community outreach?
+How can public demographic, socioeconomic, and geographic data help nonprofits decide where to focus outreach, who to serve, and how to design stronger marketing and community engagement strategies?
 
 ## Supporting Questions
 
-1. Which census tracts have the highest youth populations?
-2. Which areas have higher poverty rates?
-3. Which areas have lower median household income?
-4. Which areas have higher unemployment?
-5. Which areas have lower internet access?
-6. Which communities show the strongest need for nonprofit outreach?
-7. How can these data trends guide marketing, outreach, and partnership strategies?
+1. Which regions have strong target populations for nonprofit outreach?
+2. What demographic patterns define those communities?
+3. What socioeconomic barriers may affect outreach or engagement?
+4. Which areas show strong opportunity for nonprofit growth or partnership?
+5. How can these data insights guide marketing messages?
+6. How can these data insights support financial planning and resource allocation?
+7. How can this process be repeated by other nonprofits?
