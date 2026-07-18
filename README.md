@@ -12,14 +12,17 @@ The project uses public demographic, socioeconomic, and geographic data to help 
 
 ## Moulik's Role
 
-Moulik is responsible for the data analytics and AI side of the project, including:
+Moulik is responsible for building the data intelligence layer of the project.
 
-- Finding public datasets
+This includes:
+
+- Finding public demographic and socioeconomic datasets
 - Cleaning and organizing data
-- Running statistical analysis
-- Creating charts and maps
-- Documenting the data pipeline
-- Supporting the final strategy report and project demo
+- Creating a reproducible data pipeline
+- Analyzing community and market trends
+- Creating charts, maps, and visualizations
+- Supporting AI-assisted outreach and strategy workflows
+- Connecting data findings to nonprofit marketing, financial planning, and community engagement decisions
 
 ## Folder Structure
 
