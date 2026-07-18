@@ -6,7 +6,9 @@ This project uses public demographic, socioeconomic, and geographic data to help
 
 ## Project Goal
 
-The goal is to turn raw public data into useful charts, maps, insights, and outreach recommendations for nonprofit organizations.
+The goal of this project is to create a data-driven market intelligence and outreach strategy toolkit for nonprofits.
+
+The project uses public demographic, socioeconomic, and geographic data to help nonprofits make better decisions about where to focus outreach, who to serve, how to communicate with target communities, and how to support organizational growth.
 
 ## Moulik's Role
 
