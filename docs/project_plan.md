@@ -10,9 +10,9 @@
 
 ## Week 2: Dataset Collection
 
-- Find public ACS demographic data
-- Find public ACS socioeconomic data
-- Find census tract boundary data
+- Identify public datasets that support nonprofit market intelligence
+- Collect ACS demographic and socioeconomic data
+- Collect geographic boundary data for mapping
 - Save raw files in `data/raw/`
 - Record all sources in `docs/data_sources.md`
 
@@ -25,15 +25,16 @@
 
 ## Week 4: Analysis
 
-- Calculate outreach priority indicators
-- Run basic statistical analysis
-- Identify high-need communities
+- Analyze demographic and socioeconomic patterns
+- Build market outreach opportunity indicators
+- Identify regions that may be strong targets for nonprofit outreach
+- Connect data findings to marketing and community engagement strategy
 
 ## Week 5: Visualizations
 
-- Create charts
-- Create maps
-- Create outreach priority visuals
+- Create charts showing demographic and socioeconomic trends
+- Create maps showing market outreach opportunity areas
+- Create visuals that support the final nonprofit strategy report
 
 ## Week 6: Integration
 
