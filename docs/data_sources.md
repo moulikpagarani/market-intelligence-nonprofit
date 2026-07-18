@@ -1,24 +1,29 @@
 # Data Sources
 
-This file tracks the public datasets used for the market intelligence and nonprofit outreach project.
+This file tracks public datasets used to support nonprofit market intelligence, outreach strategy, and community engagement planning.
 
-## Planned Dataset 1: U.S. Census ACS Demographic Data
+## Dataset 1: U.S. ACS 2024 County-Level Market Intelligence Dataset
 
-Source: U.S. Census Bureau American Community Survey  
-Geography: Bexar County, Texas  
-Purpose: Identify population, youth population, age groups, and demographic patterns for nonprofit outreach planning.
+Source: U.S. Census Bureau American Community Survey 5-Year Data Profile  
+Year: 2024  
+Estimate Period: 2020–2024  
+Geography: All U.S. counties  
+Purpose: Build a national market intelligence foundation for nonprofit outreach strategy, community engagement, and growth planning.
 
-## Planned Dataset 2: U.S. Census ACS Socioeconomic Data
+Variables:
+- Total population
+- Percent under 18
+- Median household income
+- Poverty rate
+- Unemployment rate
+- Broadband internet access
 
-Source: U.S. Census Bureau American Community Survey  
-Geography: Bexar County, Texas  
-Purpose: Identify poverty, income, unemployment, education, internet access, and other community need indicators.
+## Dataset 2: Geographic Boundary Data
 
-## Planned Dataset 3: Census Tract Boundary Data
-
-Source: U.S. Census TIGER/Line Shapefiles  
-Geography: Texas / Bexar County census tracts  
-Purpose: Create maps that show outreach priority areas by location.
+Source: U.S. Census Bureau TIGER/Line Shapefiles  
+Year: 2024  
+Geography: U.S. counties, with possible deeper census tract analysis later  
+Purpose: Provides geographic boundaries so demographic and socioeconomic data can be mapped.
 
 ## Notes
 
