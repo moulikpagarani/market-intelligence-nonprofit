@@ -1,0 +1,5 @@
+model,x_variable,y_variable,slope,intercept,r_squared,p_value,output_chart
+poverty_rate ~ median_household_income,median_household_income,poverty_rate,-0.00024266686981039894,30.72232153790695,0.525946176141509,0.0,visuals/income_vs_poverty_regression.png
+poverty_rate ~ unemployment_rate,unemployment_rate,poverty_rate,1.2867907499036013,8.225942302811934,0.2709042766960807,8.704212810029037e-218,visuals/unemployment_vs_poverty_regression.png
+broadband_internet_rate ~ median_household_income,median_household_income,broadband_internet_rate,0.00021548936743815192,71.58365082165331,0.43619057472672784,0.0,visuals/income_vs_broadband_regression.png
+broadband_internet_rate ~ poverty_rate,poverty_rate,broadband_internet_rate,-0.5405858295013108,93.9225978597634,0.3073502518392636,8.629375341430851e-253,visuals/poverty_vs_broadband_regression.png
