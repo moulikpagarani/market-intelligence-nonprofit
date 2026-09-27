@@ -1,0 +1,7 @@
+profile_name,mission_focus,target_population_indicator,economic_barrier_indicator,employment_barrier_indicator,income_barrier_indicator,digital_access_barrier_indicator,notes
+Youth and Education Default,"Youth workshops, school outreach, youth education, enrichment programs",0.3,0.2,0.1,0.2,0.2,Prioritizes youth population while still accounting for economic and digital access barriers.
+Community Services,"Food access, family services, housing support, emergency assistance, resource navigation",0.1,0.3,0.25,0.25,0.1,Prioritizes economic need and employment barriers.
+Mental Health and Wellness,"Youth wellbeing, body image, confidence, self-esteem, mental health education",0.3,0.2,0.1,0.15,0.25,Prioritizes youth population and access barriers that may affect wellbeing outreach.
+Digital Outreach Heavy,"Programs relying on online campaigns, social media, virtual workshops, and remote engagement",0.2,0.15,0.1,0.15,0.4,Prioritizes broadband barriers because digital access shapes outreach strategy.
+Be Kind 5 Prototype,Kindness and confidence workshops for motivated youth groups,0.35,0.15,0.1,0.15,0.25,Prototype customization based on youth workshop outreach and engagement needs.
+Mirror Echoes Prototype,"Body image, self-esteem, and confidence workshops for youth audiences",0.3,0.2,0.1,0.15,0.25,Prototype customization based on youth wellbeing outreach and access barriers.
