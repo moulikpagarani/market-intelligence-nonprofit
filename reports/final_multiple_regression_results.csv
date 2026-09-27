@@ -1,0 +1,17 @@
+model_name,target_variable,predictor,coefficient,r_squared,adjusted_r_squared,n_counties
+Multiple Regression: Opportunity Score,market_outreach_opportunity_score,Intercept,50.00318167356032,0.9029391252841504,0.9027844219454257,3143
+Multiple Regression: Opportunity Score,market_outreach_opportunity_score,percent_under_18,4.675152088855951,0.9029391252841504,0.9027844219454257,3143
+Multiple Regression: Opportunity Score,market_outreach_opportunity_score,poverty_rate,6.049813958934308,0.9029391252841504,0.9027844219454257,3143
+Multiple Regression: Opportunity Score,market_outreach_opportunity_score,unemployment_rate,4.618323374982004,0.9029391252841504,0.9027844219454257,3143
+Multiple Regression: Opportunity Score,market_outreach_opportunity_score,median_household_income,-6.423032007589244,0.9029391252841504,0.9027844219454257,3143
+Multiple Regression: Opportunity Score,market_outreach_opportunity_score,broadband_internet_rate,-4.526779285400687,0.9029391252841504,0.9027844219454257,3143
+Multiple Regression: Poverty Rate,poverty_rate,Intercept,14.226694241170854,0.6534070754698134,0.652965274418787,3143
+Multiple Regression: Poverty Rate,poverty_rate,percent_under_18,0.593290554378511,0.6534070754698134,0.652965274418787,3143
+Multiple Regression: Poverty Rate,poverty_rate,unemployment_rate,1.9999790277989147,0.6534070754698134,0.652965274418787,3143
+Multiple Regression: Poverty Rate,poverty_rate,median_household_income,-3.2904101708803553,0.6534070754698134,0.652965274418787,3143
+Multiple Regression: Poverty Rate,poverty_rate,broadband_internet_rate,-0.7335342528380313,0.6534070754698134,0.652965274418787,3143
+Multiple Regression: Broadband Access,broadband_internet_rate,Intercept,86.23184855233855,0.45009271057117506,0.44939174525641556,3143
+Multiple Regression: Broadband Access,broadband_internet_rate,percent_under_18,0.09589568435937612,0.45009271057117506,0.44939174525641556,3143
+Multiple Regression: Broadband Access,broadband_internet_rate,poverty_rate,-1.1348489309785403,0.45009271057117506,0.44939174525641556,3143
+Multiple Regression: Broadband Access,broadband_internet_rate,unemployment_rate,0.2824695213900354,0.45009271057117506,0.44939174525641556,3143
+Multiple Regression: Broadband Access,broadband_internet_rate,median_household_income,3.0820369349919097,0.45009271057117506,0.44939174525641556,3143
