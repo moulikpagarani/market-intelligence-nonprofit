@@ -1,35 +1,11 @@
-# market-intelligence-nonprofit
-Data analytics and AI-supported market intelligence project for nonprofit outreach strategy.
-# Market Intelligence Nonprofit Project
+# BluePrint: county outreach screening
 
-This project uses public demographic, socioeconomic, and geographic data to help nonprofits identify target communities and build stronger outreach strategies.
+Audited ACS 2024 five-year indicators, relative screening ranks, uncertainty flags, geographic match audits, and state-held-out descriptive models. No model predicts the constructed score.
 
-## Project Goal
+```sh
+python -m pip install -r requirements.txt
+python scripts/blueprint_pipeline.py
+python scripts/06_week7_reproducibility_check.py
+```
 
-The goal of this project is to create a data-driven market intelligence and outreach strategy toolkit for nonprofits.
-
-The project uses public demographic, socioeconomic, and geographic data to help nonprofits make better decisions about where to focus outreach, who to serve, how to communicate with target communities, and how to support organizational growth.
-
-## Moulik's Role
-
-Moulik is responsible for building the data intelligence layer of the project.
-
-This includes:
-
-- Finding public demographic and socioeconomic datasets
-- Cleaning and organizing data
-- Creating a reproducible data pipeline
-- Analyzing community and market trends
-- Creating charts, maps, and visualizations
-- Supporting AI-assisted outreach and strategy workflows
-- Connecting data findings to nonprofit marketing, financial planning, and community engagement decisions
-
-## Folder Structure
-
-- `data/raw/` stores original datasets
-- `data/cleaned/` stores cleaned datasets
-- `notebooks/` stores analysis notebooks
-- `scripts/` stores reusable Python or R scripts
-- `visuals/` stores charts and maps
-- `reports/` stores written summaries
-- `docs/` stores documentation and project notes
+Paths work from any directory when the script path is absolute. Inputs are cached; use `--refresh` to recollect, with CENSUS_API_KEY in the environment. No API key is stored in source. Current results and limitations: [technical report](reports/week7_technical_documentation.md). All 3,144 original counties remain represented, including unscored De Baca. Absolute units are in data/cleaned/absolute_indicators_and_uncertainty.csv. The interactive map uses ACS2024 boundaries. Historical outputs are preserved in archive/pre_audit_2026_10_18 and must not be cited as current validation. Tests use only the standard library plus declared dependencies.
