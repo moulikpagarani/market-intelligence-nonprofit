@@ -1,30 +1,10 @@
-# Data Sources
+# Sources
 
-This file tracks public datasets used to support nonprofit market intelligence, outreach strategy, and community engagement planning.
-
-## Dataset 1: U.S. ACS 2024 County-Level Market Intelligence Dataset
-
-Source: U.S. Census Bureau American Community Survey 5-Year Data Profile  
-Year: 2024  
-Estimate Period: 2020–2024  
-Geography: All U.S. counties  
-Purpose: Build a national market intelligence foundation for nonprofit outreach strategy, community engagement, and growth planning.
-
-Variables:
-- Total population
-- Percent under 18
-- Median household income
-- Poverty rate
-- Unemployment rate
-- Broadband internet access
-
-## Dataset 2: Geographic Boundary Data
-
-Source: U.S. Census Bureau TIGER/Line Shapefiles  
-Year: 2024  
-Geography: U.S. counties, with possible deeper census tract analysis later  
-Purpose: Provides geographic boundaries so demographic and socioeconomic data can be mapped.
-
-## Notes
-
-All datasets should be public, non-sensitive, and usable for nonprofit planning.
+## Sources
+- ACS variables and annotations: https://api.census.gov/data/2024/acs/acs5/profile/variables.json
+- Under 18: https://api.census.gov/data/2024/acs/acs5/profile/variables/DP05_0019PE.json
+- Broadband subscription (not infrastructure availability): https://api.census.gov/data/2024/acs/acs5/profile/variables/DP02_0154PE.json
+- Census MOE/SE: https://www.census.gov/programs-surveys/acs/methodology/sample-size-and-data-quality/quality-standards-metrics-definitions.html
+- ACS 2024 boundaries: https://www.census.gov/programs-surveys/acs/geography-acs/geography-boundaries-by-year/2024.html
+- Boundary service: https://tigerweb.geo.census.gov/arcgis/rest/services/Generalized_ACS2024/State_County/MapServer/13/query
+- Historical map boundary source: https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json
