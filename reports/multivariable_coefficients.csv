@@ -1,0 +1,11 @@
+target,predictor,coefficient_per_train_SD
+poverty_rate,percent_under_18,0.48273634940698223
+poverty_rate,median_household_income,-3.1200835906662077
+poverty_rate,unemployment_rate,1.8516288529011555
+poverty_rate,broadband_internet_rate,-1.0539423081554076
+poverty_rate,log_population,0.8156678636623292
+broadband_internet_rate,percent_under_18,-0.0311389850316871
+broadband_internet_rate,median_household_income,1.9293923773427253
+broadband_internet_rate,poverty_rate,-1.429848904311489
+broadband_internet_rate,unemployment_rate,-0.0285139665448651
+broadband_internet_rate,log_population,1.6942321772352262

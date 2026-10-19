@@ -1,0 +1,30 @@
+test_de_baca_retained_and_missing_explicit (test_reproducibility.ReproducibilityTests.test_de_baca_retained_and_missing_explicit) ... ok
+test_geoid_roundtrip_and_original_universe (test_reproducibility.ReproducibilityTests.test_geoid_roundtrip_and_original_universe) ... ok
+test_indicator_direction_and_score (test_reproducibility.ReproducibilityTests.test_indicator_direction_and_score) ... ok
+test_sensitivity_profiles_valid (test_reproducibility.ReproducibilityTests.test_sensitivity_profiles_valid) ... ok
+test_state_holdout_and_metric_evidence (test_reproducibility.ReproducibilityTests.test_state_holdout_and_metric_evidence) ... ok
+test_uniform_improvement_preserves_ranks (test_reproducibility.ReproducibilityTests.test_uniform_improvement_preserves_ranks) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.059s
+
+OK
+{
+  "status": "PASS",
+  "checks": [
+    "county universe retained",
+    "five-character GEOIDs",
+    "unscored incomplete rows",
+    "score arithmetic and relative mean",
+    "MOE missingness explicit",
+    "all ACS2024 data GEOIDs matched",
+    "state split disjoint",
+    "no constructed-score regression",
+    "heldout metrics recomputed",
+    "nonempty documentation",
+    "PNG integrity"
+  ],
+  "counties": 3144,
+  "scored": 3143,
+  "moe_unavailable_counties": 3144
+}

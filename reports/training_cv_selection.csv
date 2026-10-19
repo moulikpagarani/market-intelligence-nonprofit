@@ -1,0 +1,9 @@
+target,alpha,train_state_cv_rmse
+poverty_rate,0.1,2.8275603586358664
+poverty_rate,1.0,2.827455517139044
+poverty_rate,10.0,2.8269473385719888
+poverty_rate,100.0,2.8539993335429257
+broadband_internet_rate,0.1,3.704550839881743
+broadband_internet_rate,1.0,3.7042990432841343
+broadband_internet_rate,10.0,3.7021764327454916
+broadband_internet_rate,100.0,3.700800304693675

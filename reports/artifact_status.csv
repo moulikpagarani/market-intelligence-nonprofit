@@ -1,0 +1,24 @@
+path,status
+visuals/.gitkeep,historical preserved output; see archive
+visuals/absolute_indicator_distributions.png,current audited output
+visuals/final_color_coded_opportunity_scatter.png,current audited output
+visuals/final_color_coded_variable_framework.png,historical preserved output; see archive
+visuals/final_customized_score_comparison_top5.png,historical preserved output; see archive
+visuals/final_linear_vs_nonlinear_income_broadband.png,current audited output
+visuals/final_linear_vs_nonlinear_income_poverty.png,current audited output
+visuals/final_linear_vs_nonlinear_poverty_broadband.png,current audited output
+visuals/final_linear_vs_nonlinear_unemployment_poverty.png,current audited output
+visuals/final_multiple_regression_coefficients.png,current audited output
+visuals/heldout_broadband_internet_rate.png,current audited output
+visuals/heldout_poverty_rate.png,current audited output
+visuals/income_vs_broadband_regression.png,historical preserved output; see archive
+visuals/income_vs_opportunity_score.png,historical preserved output; see archive
+visuals/income_vs_poverty_regression.png,historical preserved output; see archive
+visuals/opportunity_score_distribution.png,historical preserved output; see archive
+visuals/poverty_vs_broadband_regression.png,historical preserved output; see archive
+visuals/poverty_vs_broadband_scatter.png,historical preserved output; see archive
+visuals/top_15_states_opportunity_score.png,historical preserved output; see archive
+visuals/top_20_market_opportunity_counties.png,historical preserved output; see archive
+visuals/unemployment_vs_poverty_regression.png,historical preserved output; see archive
+visuals/us_county_opportunity_score_map.html,current audited output
+visuals/weight_sensitivity.png,current audited output

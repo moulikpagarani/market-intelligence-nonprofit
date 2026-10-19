@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "checks": [
+    "county universe retained",
+    "five-character GEOIDs",
+    "unscored incomplete rows",
+    "score arithmetic and relative mean",
+    "MOE missingness explicit",
+    "all ACS2024 data GEOIDs matched",
+    "state split disjoint",
+    "no constructed-score regression",
+    "heldout metrics recomputed",
+    "nonempty documentation",
+    "PNG integrity"
+  ],
+  "counties": 3144,
+  "scored": 3143,
+  "moe_unavailable_counties": 3144
+}

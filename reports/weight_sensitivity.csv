@@ -1,0 +1,16 @@
+profile,spearman_rank_correlation,top50_overlap,median_absolute_rank_shift,max_absolute_rank_shift,target_population_indicator,economic_barrier_indicator,employment_barrier_indicator,income_barrier_indicator,digital_access_barrier_indicator
+equal_five,1.0,50,0.0,0.0,0.2,0.2,0.2,0.2,0.2
+economic_domain_balanced,0.9855185514614835,47,85.0,774.0,0.25,0.125,0.25,0.125,0.25
+without_income,0.9758907560030242,43,112.5,778.5,0.25,0.25,0.25,0.0,0.25
+without_poverty,0.978115664740029,49,98.5,769.0,0.25,0.0,0.25,0.25,0.25
+Youth and Education Default,0.9741010846401168,45,130.0,611.5,0.3,0.2,0.1,0.2,0.2
+Community Services,0.9743562975301671,41,122.5,798.0,0.1,0.3,0.25,0.25,0.1
+Mental Health and Wellness,0.9690571179810086,45,138.0,752.0,0.3,0.2,0.1,0.15,0.25
+Digital Outreach Heavy,0.9552299144779661,44,156.0,885.0,0.2,0.15,0.1,0.15,0.4
+Be Kind 5 Prototype,0.939562917867783,45,197.0,1014.0,0.35,0.15,0.1,0.15,0.25
+Mirror Echoes Prototype,0.9690571179810086,45,138.0,752.0,0.3,0.2,0.1,0.15,0.25
+omit_target_population_indicator,0.9549957758979131,24,208.0,570.5,0.0,0.25,0.25,0.25,0.25
+omit_economic_barrier_indicator,0.978115664740029,49,98.5,769.0,0.25,0.0,0.25,0.25,0.25
+omit_employment_barrier_indicator,0.9568633791970916,39,189.0,686.5,0.25,0.25,0.0,0.25,0.25
+omit_income_barrier_indicator,0.9758907560030242,43,112.5,778.5,0.25,0.25,0.25,0.0,0.25
+omit_digital_access_barrier_indicator,0.9628120296384878,41,165.0,743.0,0.25,0.25,0.25,0.25,0.0
